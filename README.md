@@ -45,14 +45,6 @@ Timetable Management System/
 3. Select the **Desktop Qt 6.10.1 MinGW 64-bit** kit and click **Configure Project**.
 4. Press **Build**, then **Run**.
 
-## Screenshots
-
-[Add 2-3 screenshots here: main window, add-entry form, timetable view]
-
-```
-![Main Window](screenshots/main.png)
-```
-
 ## What I Learned
 
 - Designing a GUI application with Qt Widgets and signals/slots
@@ -62,12 +54,10 @@ Timetable Management System/
 
 ## Future Improvements
 
-- [Export timetable to PDF / Excel]
 - [Database support instead of file storage]
 - [User login for admin and students]
 
 ## Author
 
 **Javeria Anis**
-BS Computer Technology (Cybersecurity), COMSATS University Islamabad
-[LinkedIn profile link] | [GitHub profile link]
+BS Cyber Security, COMSATS University Islamabad
