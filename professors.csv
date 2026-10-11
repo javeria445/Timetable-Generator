@@ -1,0 +1,66 @@
+ProfessorID,Name,Department,Rank,Expertise,PreferredCourses,MaxLoad,Status
+PROF002,Dr. Majid Iqbal Khan,Computer Science,Professor,Computer Networks|Programming|Networking|Algorithms,CSC275|CSC301,12,ACTIVE
+PROF003,Prof. Dr. Nadeem Javaid,Computer Science,Professor,Energy Systems|Smart Grids|WSN|Big Data|Blockchain|AI,CSC262|CSC381,12,ACTIVE
+PROF004,Dr. Farhana Jabeen,Computer Science,Associate Professor,Network Security|Algorithms|Distributed Systems|Software Engineering|Networking,CYC365|CYC307|CSC291,12,ACTIVE
+PROF005,Prof. Dr. M. Masoom Alam,Computer Science,Professor,Security|Theory of Computation|Web Tech|Software Engineering|OOP|Databases,CYC386|CSC336|CSC291|CSC241|CSC270,12,ACTIVE
+PROF006,Dr. Iftikhar Azim Niaz,Computer Science,Associate Professor,Engineering|Software Development|Systems Architecture,CSC291|CSC241|CSC325,12,ACTIVE
+PROF007,Dr. Munam Ali Shah,Computer Science,Associate Professor,Networks|CCNA|Operating Systems|Network Design,CSC275|CSC323|CSC325,12,ACTIVE
+PROF008,Dr. Malik Ahmad Kamran,Computer Science,Associate Professor,Distributed Computing|Discrete Math|Databases|Social Networks,CSC102|CSC270|CSC211|CSC301,12,ACTIVE
+PROF009,Dr. Basit Raza,Computer Science,Associate Professor,Data Structures|Databases|E-Commerce|Data Mining|Cryptography,CSC211|CSC270|CSC417|CYC331|CSC496,12,ACTIVE
+PROF010,Dr. Saif Ur Rehman Malik,Computer Science,Associate Professor,Formal Methods|Cloud Computing|Verification|System Modeling,CSC291|CSC301|CSC323,12,ACTIVE
+PROF011,Dr. Inayat-ur-Rehman,Computer Science,Associate Professor,E-Learning|Software Testing|Project Management|HCI|Animation,CSC291|CSC210|CSC336,12,ACTIVE
+PROF012,Dr. Assad Abbas,Computer Science,Associate Professor,Software Engineering|Algorithms|OOP|Requirements Engineering|Quality Assurance,CSC291|CSC301|CSC241|CSC210,12,ACTIVE
+PROF013,Dr. Uzair Iqbal,Computer Science,Associate Professor,Algorithms|Data Structures|Programming Fundamentals,CSC211|CSC103|CSC301,12,ACTIVE
+PROF014,Dr. Tehseen Zia,Computer Science,Associate Professor,Artificial Intelligence|Machine Learning|Data Science|AI Applications,CSC262|CSC301|CSC270,12,ACTIVE
+PROF015,Dr. Tahir Mustafa Madni,Computer Science,Assistant Professor,Computer Vision|Operating Systems|Automata Theory|Image Processing,CSC323|CSC262|CSC301,12,ACTIVE
+PROF016,Mr. Rashid Mehmood,Computer Science,Lecturer,Algorithms|Data Structures|OOP|Programming Fundamentals,CSC211|CSC241|CSC103|CSC112,12,ACTIVE
+PROF017,Mr. Aamir Shabbir Parre,Computer Science,Lecturer,Programming|Software Development|Web Technologies,CSC103|CSC241|CSC336,12,ACTIVE
+PROF018,Mr. Mohsin Ahmed,Computer Science,Lecturer,Programming|Database Systems|Software Engineering,CSC103|CSC270|CSC291,12,ACTIVE
+PROF019,Ms. Maheen Gull,Computer Science,Lecturer,Programming|Web Development|Human Computer Interface,CSC103|CSC336|CSC365,12,ACTIVE
+PROF001,Prof. Dr. M. Manzoor ilahi Tamimy,Computer Science,Professor,Programming|OOP|Data Structures|Data Mining|Java|Computer Architecture,CSC211|CSC301,12,ACTIVE
+PROF020,Ms. Madiha Naveed,Computer Science,Lecturer,Programming|Data Structures|Algorithms|Software Design,CSC103|CSC211|CSC301,12,ACTIVE
+PROF021,Ms. Anum Zehra,Computer Science,Lecturer,Programming|Database Systems|Web Technologies,CSC103|CSC270|CSC336,12,ACTIVE
+PROF022,Mr. Zahid Anwar,Computer Science,Lecturer,Programming|Networks|Security Fundamentals,CSC103|CSC275|CYC205,12,ACTIVE
+PROF023,Mr. Waqas Ali,Computer Science,Lecturer,Programming|Mobile Development|Web Applications,CSC103|CSC303|CSC336,12,ACTIVE
+PROF024,Mr. Muhammad Haris,Computer Science,Lecturer,Programming|Software Engineering|Project Management,CSC103|CSC291|CSC210,12,ACTIVE
+PROF025,Dr. Najmun Nisa,Computer Science,Lecturer,Programming|Database Systems|Information Systems,CSC103|CSC270|CSC101,12,ACTIVE
+PROF026,Ms. Memoona Malik,Computer Science,Lecturer,Programming|Web Development|UI/UX Design,CSC103|CSC336|CSC365,12,ACTIVE
+PROF027,Ms. Saadia Maqbool,Computer Science,Lecturer,Programming|Data Structures|Algorithms,CSC103|CSC211|CSC301,12,ACTIVE
+PROF028,Ms. Sajida Kalsoom,Computer Science,Lecturer,OOP|Programming|Software Development,CSC241|CSC103|CSC291,12,ACTIVE
+CYB001,Prof. Dr. Faisal Shafait,Cyber Security,Professor,Cyber Security|Digital Forensics|Incident Response,CYC303|CYC390|CYC498,12,ACTIVE
+CYB002,Prof. Dr. Hasan Ali Khattak,Cyber Security,Professor,Network Security|Penetration Testing|Ethical Hacking,CYC365|CYC309|CYC378|CYC499,12,ACTIVE
+CYB003,Dr. Waqar Ahmed,Cyber Security,Associate Professor,Cryptography|Blockchain|Secure Protocols,CYC331|CYC307|CYC386,12,ACTIVE
+CYB004,Dr. Ali Saeed,Cyber Security,Assistant Professor,Web Security|Application Security|Secure Coding,CYC342|CYC386|CYC395,12,ACTIVE
+MATH001,Dr. Tanvir Akbar Kiyani,Mathematics,Associate Professor,Calculus|Linear Algebra|Statistics|Discrete Math,MTH104|MTH231|MTH262|CSC102,12,ACTIVE
+MATH002,Prof. Dr. Shamsul Qamar,Mathematics,Professor,Calculus|Advanced Math|Quantitative Analysis,MTH105|MTH104|MTH103,12,ACTIVE
+MATH003,Prof. Dr. Abdullah Shah,Mathematics,Professor,Calculus|Geometry|Mathematical Modeling,MTH104|MTH105|MTH114,12,ACTIVE
+MATH004,Prof. Dr. Shams-ul-Islam,Mathematics,Professor,Calculus|Statistics|Probability Theory,MTH104|MTH262|MTH105,12,ACTIVE
+MATH005,Dr. Zahid Ahmad,Mathematics,Professor,Calculus|Linear Algebra|Discrete Math,MTH104|MTH231|CSC102,12,ACTIVE
+MATH006,Dr. Qazi Muhammad Zaigham Zia,Mathematics,Associate Professor,Calculus|Statistics|Quantitative Reasoning,MTH104|MTH262|MTH103,12,ACTIVE
+MATH007,Dr. Muhammad Qasim,Mathematics,Associate Professor,Calculus|Linear Algebra|Statistics,MTH104|MTH231|MTH262,12,ACTIVE
+MATH008,Dr. Salman Amin Malik,Mathematics,Associate Professor,Calculus|Discrete Math|Quantitative Skills,MTH104|CSC102|MTH103,12,ACTIVE
+MATH009,Dr. Saima Noreen,Mathematics,Associate Professor,Calculus|Statistics|Probability Theory,MTH104|MTH262|MTH105,12,ACTIVE
+MATH010,Dr. Rehan Ahmed,Mathematics,Associate Professor,Calculus|Linear Algebra|Multivariable Calculus,MTH104|MTH231|MTH105,12,ACTIVE
+HUM001,Ms. Attiya Siddiqi,Humanities,Assistant Professor,English|Language Studies,HUM121,12,ACTIVE
+HUM002,Dr. Shakeela Ibrahim,Humanities,Assistant Professor,English|Writing|Communication Skills,HUM104|HUM120|HUM121,12,ACTIVE
+HUM003,Dr. Aliya Mueen Zafar,Humanities,Research Officer,Research Methods|Academic Writing|Communication,HUM120|HUM121|HUM210,12,ACTIVE
+HUM004,Dr. Farhat Nisar,Humanities,Associate Professor,English|Psychology|Social Sciences,HUM104|HUM220|HUM122,12,ACTIVE
+HUM005,Dr. Fasih Ahmed,Humanities,Associate Professor,English|Writing|Language Studies,HUM104|HUM120|HUM121,12,ACTIVE
+HUM006,Dr. Fayyaz Ahmad Faize,Humanities,Associate Professor,English|Communication|Professional Writing,HUM104|HUM120|HUM121,12,ACTIVE
+HUM007,Dr. Muhammad Nawaz,Humanities,Associate Professor,English|Writing|Communication Skills,HUM104|HUM120|HUM121,12,ACTIVE
+HUM008,Dr. Mubeen Akhtar,Humanities,Associate Professor,English|Psychology|Social Sciences,HUM104|HUM220|HUM122,12,ACTIVE
+HUM009,Dr. Waqar Husain,Humanities,Associate Professor,English|Writing|Communication,HUM104|HUM120|HUM121,12,ACTIVE
+HUM010,Dr. Amna Saeed,Humanities,Associate Professor,English|Writing|Language Proficiency,HUM104|HUM120|HUM121,12,ACTIVE
+MGMT001,Ms. Sarah Tariq,Management Sciences,Assistant Professor,Data Analytics|Statistics|Business Analysis,MGT131|MTH262|MGT210,12,ACTIVE
+MGMT002,Dr. Aruba Sharif,Management Sciences,Lecturer,Accounting|Finance|Business Administration,MGT131|MGT250|MGT350,12,ACTIVE
+MGMT003,Dr. Amir Riaz,Management Sciences,Assistant Professor,Business Administration|Marketing|Management,MGT210|MGT250|MGT350,12,ACTIVE
+MGMT004,Dr. Muhammad Arsalan Khan,Management Sciences,Lecturer,Management|Entrepreneurship|Business Strategy,MGT250|MGT350|MGT210,12,ACTIVE
+MGMT005,Prof. M. Majid Khan,Management Sciences,Professor,Management|Business Strategy|Leadership,MGT350|MGT250|MGT210,12,ACTIVE
+BIO001,Prof. Dr. Mahmood A. Kayani,Bioscience,Professor,Biology|Genetics|Bioinformatics,BIO100|BIO321|BIO310,12,ACTIVE
+BIO002,Prof. Dr. Ijaz Ali,Bioscience,Professor,Biology|Genetics|Bio Sciences,BIO100|BIO321|BIO310,12,ACTIVE
+BIO003,Prof. Dr. M. Qaiser Fatmi,Bioscience,Professor,Biology|Genetics|Life Sciences,BIO100|BIO321|BIO310,12,ACTIVE
+PHY001,Prof. Dr. Sajid Qamar,Physics,Professor,Physics|Applied Physics|Scientific Computing,PHY124|MTH104|CSC103,12,ACTIVE
+PHY002,Prof. Dr. Muhammad Anis-ur-Rehman,Physics,Professor,Physics|Applied Physics|Electronics,PHY124|EEE240|CSC325,12,ACTIVE
+PHY003,Dr. Nazar Abbas Shah,Physics,Professor,Physics|Applied Physics|Scientific Methods,PHY124|MTH104|CSC102,12,ACTIVE
+CHEM001,Prof. Dr. Rafaqat Hussain,Chemistry,Professor,Chemistry|Chemical Sciences|Laboratory Methods,CHM100|BIO100|PHY124,12,ACTIVE
+CHEM002,Dr. Sana Sabahat,Chemistry,Associate Professor,Chemistry|Chemical Analysis|Laboratory Techniques,CHM100|BIO100|PHY124,12,ACTIVE

@@ -1,0 +1,49 @@
+Code,Name,Credits,Theory,Lab,Category,Prerequisites,Mandatory,ElectiveGroup,Domain,ScheduleType,Semester
+CSC101,Applications of Information and Communication Technologies,3,2,1,Application of ICT,,TRUE,,ICT,NORMAL,1
+CSC103,Programming Fundamentals,4,3,1,Computing Core,,TRUE,,CS,NORMAL,1
+HUM104,Functional English,3,3,0,Functional English,,TRUE,,Humanities,NORMAL,1
+MTH104,Calculus and Analytic Geometry,3,3,0,Quantitative Reasoning,,TRUE,,Math,NORMAL,1
+HUM101,Understanding Quran,0,0,0,General Education,,TRUE,,Humanities,ONLINE,1
+HUM117,Pakistan Studies,2,2,0,General Education,,TRUE,,Humanities,NORMAL,1
+PHY124,Applied Physics,3,2,1,Natural Sciences,,TRUE,,Science,NORMAL,1
+CSC102,Discrete Structures,3,3,0,Quantitative Reasoning,,TRUE,,Math,NORMAL,2
+CSC241,Object Oriented Programming,4,3,1,Computing Core,CSC103,TRUE,,CS,NORMAL,2
+HUM120,Expository Writing,3,3,0,Expository Writing,,TRUE,,Humanities,NORMAL,2
+MTH231,Linear Algebra,3,3,0,Interdisciplinary Courses,,TRUE,,Math,NORMAL,2
+HUM141,Seerah of Holy Prophet S.A.W.,0,0,0,General Education,,TRUE,,Humanities,ONLINE,2
+HUM113,Ideology and Constitution of Pakistan,2,2,0,Ideology and Constitution of Pakistan,,TRUE,,Humanities,NORMAL,2
+CSC211,Data Structures,4,3,1,Computing Core,CSC103,TRUE,,CS,NORMAL,3
+CSC270,Database Systems,4,3,1,Computing Core,,TRUE,,CS,NORMAL,3
+HUM121,Technical and Business Writing,3,3,0,Interdisciplinary Courses,,TRUE,,Humanities,NORMAL,3
+MTH262,Statistics and Probability Theory,3,3,0,Interdisciplinary Courses,,TRUE,,Math,NORMAL,3
+CSC262,Artificial Intelligence,3,2,1,Computing Core,,TRUE,,CS,NORMAL,3
+CHM100,Introduction to Chemistry,3,2,1,Natural Sciences,,FALSE,NaturalScience,Chemistry,NORMAL,3
+CSC275,Computer Networks,3,2,1,Computing Core,,TRUE,,CS,NORMAL,4
+CSC291,Software Engineering,3,3,0,Computing Core,,TRUE,,CS,NORMAL,4
+CSC325,Computer Organization and Assembly Language,3,2,1,Computing Core,,TRUE,,CS,NORMAL,4
+EEE240,Fundamentals of Digital Logic Design,3,2,1,Computing Core,,TRUE,,EE,NORMAL,4
+HUM208,Civics and Community Engagement,2,2,0,Civics and Community Engagement,,TRUE,,Humanities,NORMAL,4
+CYC205,Introduction to Cyber Security,3,2,1,Domain Core,,TRUE,,Cyber,NORMAL,5
+CSC301,Design and Analysis of Algorithms,3,3,0,Computing Core,CSC211,TRUE,,CS,NORMAL,5
+CSC323,Operating Systems,3,2,1,Computing Core,,TRUE,,CS,NORMAL,5
+MTH105,Multivariable Calculus,3,3,0,Interdisciplinary Courses,MTH104,FALSE,QuantitativeReasoning,Math,NORMAL,5
+CYC303,Digital Forensics,3,2,1,Domain Core,,TRUE,,Cyber,NORMAL,5
+ADA111,History and Theory of Art and Culture I,2,2,0,Arts and Humanities,,FALSE,ArtsHumanities,Humanities,NORMAL,5
+CYC307,Information Assurance,3,3,0,Domain Core,,TRUE,,Cyber,NORMAL,6
+CYC365,Network Security,3,2,1,Domain Core,CSC275,TRUE,,Cyber,NORMAL,6
+CYC386,Secure Software Design and Development,3,2,1,Domain Core,,TRUE,,Cyber,NORMAL,6
+CSC303,Mobile Application Development,3,2,1,Domain Elective,CSC241,FALSE,DomainElective,CS,NORMAL,6
+CSC336,Web Technologies,3,2,1,Domain Elective,CSC241,FALSE,DomainElective,CS,NORMAL,6
+HUM122,Fundamentals of Psychology,2,2,0,Social Sciences,,FALSE,SocialScience,Humanities,NORMAL,6
+CYC498,Final Year Project I,2,0,2,Capstone Project,CSC241|CSC270|CSC291,TRUE,,Project,PROJECT,7
+CYC390,Vulnerability Assessment and Reverse Engineering,3,2,1,Domain Core,,TRUE,,Cyber,NORMAL,7
+MGT250,Introduction to Entrepreneurship,2,2,0,Entrepreneurship,,TRUE,,Management,NORMAL,7
+CYC395,Field Experience/Internship,3,0,3,Internship,,TRUE,,Cyber,INTERNSHIP,7
+CYC309,Ethical Hacking,3,2,1,Domain Elective,CSC275,FALSE,DomainElective,Cyber,NORMAL,7
+HUM220,Introduction to Psychology,3,3,0,Supporting Elective,,FALSE,SupportingElective,Humanities,NORMAL,7
+CYC499,Final Year Project II,4,0,4,Capstone Project,CYC498,TRUE,,Project,PROJECT,8
+CYC331,Cryptography,3,3,0,Domain Elective,,FALSE,DomainElective,Cyber,NORMAL,8
+CSC337,Advanced Web Technologies,3,2,1,Domain Elective,CSC336,FALSE,DomainElective,CS,NORMAL,8
+CYC342,Web Application Security,3,2,1,Domain Elective,CSC336,FALSE,DomainElective,Cyber,NORMAL,8
+CYC378,Penetration Testing,3,2,1,Domain Elective,,FALSE,DomainElective,Cyber,NORMAL,8
+HUM430,French,3,3,0,Supporting Elective,,FALSE,SupportingElective,Language,NORMAL,8
